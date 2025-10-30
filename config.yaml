@@ -1,0 +1,8 @@
+db:
+  host: "192.168.56.201"
+  port: 5432
+  name: "devops_lab"
+  user: "devuser"
+  password: "devpass"
+server:
+  port: 8000
